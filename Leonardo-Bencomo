@@ -1,0 +1,8 @@
+
+username = input("Username > ")
+password = input("Password > ")
+if username == "rade" and password == "123456":
+  print("Welcome, Rade!")
+else:
+  print("user and pass incorrect...try again")
+  
